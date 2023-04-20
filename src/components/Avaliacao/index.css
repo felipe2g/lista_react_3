@@ -1,0 +1,27 @@
+.divAvaliacao {
+    margin-top: 80px;
+    width: 250px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    -webkit-box-shadow: 3px 3px 6px -2px rgba(0,0,0,0.44);
+    -moz-box-shadow: 3px 3px 6px -2px rgba(0,0,0,0.44);
+    box-shadow: 3px 3px 6px -2px rgba(0,0,0,0.44);
+}
+
+.divIcone {
+    display: flex;
+    justify-content: center;
+}
+
+.imgAvaliacao {
+    width: 80px;
+    position: relative;
+    top: -20%;
+    border-radius: 50%;
+}
+
+.infoText {
+    text-align: center;
+}

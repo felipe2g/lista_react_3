@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ana Bruck",
+        "title": "Eu recomendo a Leticia, pois o atendimento dele fez toda diferença",
+        "description": "A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos.",
+        "imgUrl": "./foto01.jpeg"
+    },
+    {
+        "name": "Dani Shutz",
+        "title": "Eu recomendo a Leticia, pois o atendimento dele fez toda diferença",
+        "description": "A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos.",
+        "imgUrl": "./foto03.jpeg"
+    },
+    {
+        "name": "Bia Wolf",
+        "title": "Eu recomendo a Leticia, pois o atendimento dele fez toda diferença",
+        "description": "A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos.",
+        "imgUrl": "./foto04.jpeg"
+    }
+]
